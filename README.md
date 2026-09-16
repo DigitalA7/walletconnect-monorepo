@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce dépôt propose un parcours documentaire en français sur WalletConnect v2 : connexion de DApps et wallets, sessions, packages, providers et limites d’intégration. Voir [le sommaire](docs/fr/README.md).
+
 # WalletConnect v2.x.x
 
 Open protocol for connecting Wallets to Dapps - https://walletconnect.com
